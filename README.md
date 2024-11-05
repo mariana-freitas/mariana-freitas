@@ -1,6 +1,6 @@
 - 👋 Oi!! Me chamo Mariana Freitas, prazer!
 - 😄 Tenho 24 anos e muita vontade de evoluir!
-- - 👀 Estou aprendendo sobre programação! Pequenos passos, mas seguindo em frente!
+   👀 Estou aprendendo sobre programação! Pequenos passos, mas seguindo em frente!
 - 🌱 Estudando no momento HTML5-CSS3
 - ⚡ Fun fact: Adoro leitura, mangás e Michael Jackson!
 
