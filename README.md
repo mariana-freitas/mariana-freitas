@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mariana-freitas
-- 👀 I’m interested in start into programming!
-- 🌱 I’m currently learning html5-css3
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i like books, mangas, animes and michael jackson <3 
+- 👋 Oi!! Me chamo Mariana Freitas, prazer!
+- 😄 Tenho 24 anos e muita vontade de evoluir!
+- - 👀 Estou aprendendo sobre programação! Pequenos passos, mas seguindo em frente!
+- 🌱 Estudando no momento HTML5-CSS3
+- ⚡ Fun fact: Adoro leitura, mangás e Michael Jackson!
 
 <!---
 mariana-freitas/mariana-freitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
